@@ -1,5 +1,4 @@
 import { Engine } from '../engine/Engine'
-import * as THREE from 'three'
 import { Env } from './Env'
 import { Box } from './Box'
 import { Experience } from '../engine/Experience'
